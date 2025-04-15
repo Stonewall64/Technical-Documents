@@ -9,7 +9,7 @@ Each type of document is divided into a specific area. If there is a link to it,
 
 <a href ="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11013/110130X/Malware-and-social-engineering-attacks-on-healthcare/10.1117/12.2533344.short"> 
 Malware Classification using fusion of neural networks</a>
-<p>This paper built upon the research of the first paper to utilize GAN and binary images of known malware files to better create an algorithm to identify malicious software. I presented this paper during the SPIE Commercial Defense + Sensing Conference in Baltimore in 2019. This research also earned recongition at the <a href="https://www.iup.edu/scholars-forum/awards/2019-award-winners.html"> 2019 IUP Scholar's Forum </a> where I received the "S-COAM Best Computational Science Award." </p>
+<p>This paper built upon the research of the first paper to utilize GAN and binary images of known malware files to better create an algorithm to identify malicious software. I presented this paper during the 2019 SPIE Commercial Defense + Sensing Conference in Baltimore in 2019. This research also earned recongition at the <a href="https://www.iup.edu/scholars-forum/awards/2019-award-winners.html"> 2019 IUP Scholar's Forum </a> where I received the "S-COAM Best Computational Science Award." </p>
 
 <br><br>
 

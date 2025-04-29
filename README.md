@@ -14,9 +14,22 @@ Malware Classification using fusion of neural networks</a>
 <br><br>
 
 <h2>Technical Writings</h2>
+TV Remote Usage Guide <br/>
+TODO <br/><br/>
 
+Restringing an Electric Guitar <br/>
+TODO <br/>
 
-<br><br>
+Facility Access Policy <br/>
+TODO <br/> <br/>
+
+<br>
 
 <h2>Non-Technical Writings</h2>
+The Generalship of Thomas "Stonewall" Jackson <br/>
+TODO <br/><br/>
+
+2025 Psalm 23 Lenten Service <br/>
+TODO
+
 

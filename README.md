@@ -4,8 +4,9 @@ Each type of document is divided into a specific area. If there is a link to it,
 
 <h2>Technical Research Papers</h2>
 
-<a href ="https://ieeexplore.ieee.org/abstract/document/8707429"> Malware Classification using Deep Convolutional Neural Networks </a>
-<p>This was the first document I co-authored while I pursued my undergradate degree at Indiana University of Pennsylvania. In it, we examined the viability of converting known malware files to binary images and seeing which is best suited to machine learning.  </p> <br>
+<a href ="https://ieeexplore.ieee.org/abstract/document/8707429"> 
+Malware Classification using Deep Convolutional Neural Networks </a>
+<p>This was the first document I co-authored while I pursued my undergradate degree at Indiana University of Pennsylvania. In it, we examined the viability of converting known malware files to binary images and seeing which is best suited to machine learning. </p> 
 
 <a href ="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11013/110130X/Malware-and-social-engineering-attacks-on-healthcare/10.1117/12.2533344.short"> 
 Malware Classification using fusion of neural networks</a>
@@ -14,22 +15,30 @@ Malware Classification using fusion of neural networks</a>
 <br><br>
 
 <h2>Technical Writings</h2>
+
+<a href="https://media.journoportfolio.com/users/452615/uploads/0d18fa42-4394-4a75-81b2-e5285c538176.pdf"> 
+Generic Facility Access Policy</a> 
+<p>This is based on a facility policy I created. I began sanitizing the information, but realized that the information was too specific to merely sanitize. Instead, I created a generic template to be used.</p>
+<br>
+
 TV Remote Usage Guide <br/>
 TODO <br/><br/>
 
 Restringing an Electric Guitar <br/>
 TODO <br/>
 
-Facility Access Policy <br/>
-TODO <br/> <br/>
 
-<br>
 
 <h2>Non-Technical Writings</h2>
+
+<a href="https://media.journoportfolio.com/users/452615/uploads/d9495ea0-31a4-4913-a9a7-9cf345488abe.pdf"> 
+2025 Psalm 23 Lenten Service</a>
+<p>Sermon I delievered on April 6, 2025. The title of the sermon is "Assurance in God".</p>
+
 The Generalship of Thomas "Stonewall" Jackson <br/>
 TODO <br/><br/>
 
-2025 Psalm 23 Lenten Service <br/>
-TODO
+
+
 
 

@@ -38,6 +38,19 @@ TODO <br/>
 The Generalship of Thomas "Stonewall" Jackson <br/>
 TODO <br/><br/>
 
+<h2>Technical Documentation Resources</h2>
+
+<a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/plain-language/training">
+National Institutes of Health Plain Language</a>
+<p>Resource I found that provides helpful information when conducting Plain Language training </p>
+
+<a href="https://learn.microsoft.com/en-us/style-guide/welcome/whats-new">
+Microsoft Style Guide</a>
+<p>Style Guide reference for Microsoft. You can download the PDF to have the entire document instead of reviewing each section.</p>
+
+<a href="https://www.plainlanguage.gov/training/online-training/"> 
+Plain Language</a>
+<p>Government Website that gives a plethora of information about Plain Language</p>
 
 
 

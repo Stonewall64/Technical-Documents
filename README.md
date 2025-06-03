@@ -21,6 +21,11 @@ Generic Facility Access Policy</a>
 <p>This is based on a facility policy I created. I began sanitizing the information, but realized that the information was too specific to merely sanitize. Instead, I created a generic template to be used.</p>
 <br>
 
+<a href="https://media.journoportfolio.com/users/452615/uploads/841a1aee-0f56-4cf6-a99a-a5e44306ca88.pdf"> 
+Pokémon Map Manual</a>
+<p>A manual to provide instruction on how to use the Pokémon Map in the Kanto region</p>
+<br>
+
 TV Remote Usage Guide <br/>
 TODO <br/><br/>
 
